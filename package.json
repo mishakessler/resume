@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mishakessler/mishakessler-resume/issues"
   },
-  "homepage": "https://github.com/mishakessler/mishakessler-resume#readme"
+  "homepage": "https://github.com/mishakessler/mishakessler-resume#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
